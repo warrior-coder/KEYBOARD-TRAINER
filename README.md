@@ -1,6 +1,9 @@
 # KEYBOARD TRAINER
 
-Keyboard trainer application on clear C++.
+Keyboard trainer application on C++ using WinAPI library.
+
+![sc0](screenshots/screenshot_0.gif)
+
 
 ![sc1](screenshots/screenshot_1.png)
 
